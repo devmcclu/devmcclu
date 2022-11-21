@@ -2,6 +2,8 @@
 
 ![Devlin's GitHub stats](https://github-readme-stats.vercel.app/api?username=devmcclu&show_icons=true&theme=dracula)
 
+Follow me on <a rel="me" href="https://mastodon.gamedev.place/@devmcclu">Mastodon</a>!
+
 <!--
 **devmcclu/devmcclu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
